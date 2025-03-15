@@ -1,0 +1,21 @@
+h1 {
+    color: brown;
+}
+
+p {
+    color: beige;
+}
+
+body {
+    background-color: grey;
+}
+
+table {
+    border: 10px brown;
+    border-collapse: collapse;
+    border-color: brown;
+}
+
+th {
+    background-color: brown;
+}
